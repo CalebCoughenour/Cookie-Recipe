@@ -1,4 +1,4 @@
-# _Cookie Recipecoo_
+# _Cookie Recipe_
 
 #### By _**Caleb Coughenour**_
 
