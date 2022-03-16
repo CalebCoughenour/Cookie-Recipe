@@ -24,3 +24,5 @@ _A simple website listing recipe for chocolate chip cookies. Includes a link at 
 ## License
 
 _Unlicensed_
+
+Copyright (c) _3/16/22_ _Caleb Coughenour and Jarret Jeter_
